@@ -76,3 +76,11 @@ Comprehensive visualizations including:
 Below is a concise overview of how book-recommender-nlp-v1 works internally:
 
 **Data Processing**
+```python
+import pandas as pd
+
+df = pd.read_csv("data/books.csv")
+df.dropna(subset=["title", "description"], inplace=True)
+df = df[df["price"] > 0]  # remove invalid prices
+```
+
