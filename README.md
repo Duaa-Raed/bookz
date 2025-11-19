@@ -6,15 +6,17 @@ BookMind AI
 *Advanced Book Search and Recommendation System*
 
 
-Overview
----
+**Overview**
 
 A complete suite of intelligent tools for book search and recommendation, built across multiple versions that gradually introduce more advanced features:
 
-Version	Name	Status	Description
-v1	book-recommender-nlp-v1	✅ Stable	Basic recommendation system with semantic search
-v2	book-agent-v2	🔨 In Progress	Advanced intelligent agent with multi-capabilities
-📦 Version 1: book-recommender-nlp-v1
+| Version | Name | Status | Description |
+|---------|------|--------|--------|
+| **v1** | `book-recommender-nlp-v1` |  Stable | Basic recommendation system with semantic search |
+| **v2** | `book-agent-v2` |  In Development | Advanced intelligent agent with multiple capabilities |
+
+Version 1: book-recommender-nlp-v1
+
 🎯 Objective
 
 A smart book search and recommendation system built using NLP and semantic retrieval techniques.
