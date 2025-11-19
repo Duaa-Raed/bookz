@@ -18,31 +18,32 @@ A complete suite of intelligent tools for book search and recommendation, built 
 
 ### Version 1: book-recommender-nlp-v1
 
-🎯 Objective
+**Objective**
 
-A smart book search and recommendation system built using NLP and semantic retrieval techniques.
+*A smart book search and recommendation system built using NLP and semantic retrieval techniques.*
 
-✨ Features
-🔍 Semantic Search
+**Features**
+
+- Semantic Search
 
 Uses Sentence Transformers to understand the meaning behind user queries.
 
-⚡ Vector Database
+- Vector Database
 
 Fast vector similarity search using FAISS.
 
-🤖 Enhanced Answers
+- Enhanced Answers
 
 Answers refined using Gemini AI for more natural and useful responses.
 
-📊 Comprehensive Data Analysis (EDA)
+- Comprehensive Data Analysis (EDA)
 
 Visual exploration of books dataset with multiple insights.
 
-🧹 Intelligent Cleaning
+- Intelligent Cleaning
 
 Automated data preprocessing and anomaly removal.
 
-💬 Interactive Query Mode
+- Interactive Query Mode
 
 Simple conversational interface for user queries.
